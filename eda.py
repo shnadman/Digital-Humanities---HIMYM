@@ -84,15 +84,15 @@ def get_stop_words(data_dtm2):
         top_dict[c]= list(zip(top.index, top.values))
 
     # Print the top 15 words said by each character
-    for comedian, top_words in top_dict.items():
-        print(comedian)
+    for character, top_words in top_dict.items():
+        print(character)
         print(', '.join([word for word, count in top_words[0:14]]))
         print('---')
 
     # Let's first pull out the top 30 words for each comedian
     words = []
-    for comedian in data_dtm2.columns:
-        top = [word for (word, count) in top_dict[comedian]]
+    for character in data_dtm2.columns:
+        top = [word for (word, count) in top_dict[character]]
         for t in top:
             words.append(t)
 
