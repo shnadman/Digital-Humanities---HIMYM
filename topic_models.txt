@@ -1,0 +1,77 @@
+Topic model for season 1:
+
+(0, '0.000*"subtitle" + 0.000*"miss" + 0.000*"name" + 0.000*"dude" + 0.000*"coat"')
+(1, '0.009*"mistake" + 0.005*"grow" + 0.005*"dress" + 0.005*"tape" + 0.005*"band"')
+(2, '0.000*"dude" + 0.000*"rock" + 0.000*"beer" + 0.000*"suit" + 0.000*"marshall"')
+(3, '0.007*"suit" + 0.005*"name" + 0.005*"dude" + 0.005*"perfect" + 0.004*"roof"')
+(4, '0.008*"dude" + 0.005*"miss" + 0.005*"dress" + 0.005*"eat" + 0.004*"sweet"')
+
+Topic model for season 2:
+
+(0, '0.000*"watch" + 0.000*"school" + 0.000*"take" + 0.000*"steal" + 0.000*"dream"')
+(1, '0.008*"cougar" + 0.006*"dude" + 0.005*"awesome" + 0.005*"take" + 0.004*"single"')
+(2, '0.007*"watch" + 0.006*"fire" + 0.005*"dream" + 0.005*"ball" + 0.005*"idea"')
+(3, '0.006*"slap" + 0.006*"marshall" + 0.005*"perfect" + 0.005*"ball" + 0.005*"veil"')
+(4, '0.000*"sometimes" + 0.000*"dream" + 0.000*"truth" + 0.000*"close" + 0.000*"kill"')
+
+Topic model for season 3:
+
+(0, '0.000*"open" + 0.000*"place" + 0.000*"eye" + 0.000*"good" + 0.000*"anymore"')
+(1, '0.000*"crazy" + 0.000*"believe" + 0.000*"care" + 0.000*"place" + 0.000*"step"')
+(2, '0.007*"sell" + 0.007*"money" + 0.006*"wife" + 0.006*"slap" + 0.006*"maybe"')
+(3, '0.006*"crazy" + 0.005*"story" + 0.005*"rule" + 0.004*"game" + 0.004*"second"')
+(4, '0.007*"shave" + 0.006*"iron" + 0.005*"rock" + 0.005*"maybe" + 0.005*"weird"')
+Topic model for season 4:
+
+(0, '0.000*"woo" + 0.000*"fire" + 0.000*"hide" + 0.000*"book" + 0.000*"wife"')
+(1, '0.004*"wear" + 0.004*"idea" + 0.004*"sit" + 0.003*"hear" + 0.003*"speak"')
+(2, '0.005*"ready" + 0.005*"school" + 0.005*"honey" + 0.005*"bank" + 0.004*"woo"')
+(3, '0.000*"hear" + 0.000*"wear" + 0.000*"speak" + 0.000*"spend" + 0.000*"wedding"')
+(4, '0.005*"hear" + 0.005*"wear" + 0.005*"naked" + 0.004*"list" + 0.004*"dude"')
+
+Topic model for season 5:
+
+(0, '0.006*"bitch" + 0.005*"sweetie" + 0.004*"hot" + 0.004*"dish" + 0.004*"scooter"')
+(1, '0.006*"hear" + 0.006*"next" + 0.006*"wrong" + 0.004*"fall" + 0.004*"marry"')
+(2, '0.005*"offer" + 0.005*"watch" + 0.005*"shut" + 0.004*"sit" + 0.004*"stand"')
+(3, '0.000*"teacher" + 0.000*"drink" + 0.000*"money" + 0.000*"rule" + 0.000*"moment"')
+(4, '0.006*"whip" + 0.005*"marry" + 0.005*"dish" + 0.004*"wife" + 0.004*"month"')
+
+Topic model for season 6:
+
+(0, '0.010*"dad" + 0.007*"dude" + 0.006*"fire" + 0.005*"sweet" + 0.005*"course"')
+(1, '0.007*"dad" + 0.004*"life" + 0.003*"delete" + 0.003*"where" + 0.003*"laugh"')
+(2, '0.000*"dad" + 0.000*"feeling" + 0.000*"question" + 0.000*"stick" + 0.000*"ready"')
+(3, '0.000*"moment" + 0.000*"wish" + 0.000*"list" + 0.000*"honey" + 0.000*"car"')
+(4, '0.006*"actually" + 0.006*"life" + 0.005*"architect" + 0.005*"movie" + 0.004*"dude"')
+Topic model for season 7:
+
+(0, '0.001*"neck" + 0.001*"ill" + 0.001*"lie" + 0.001*"man" + 0.001*"big"')
+(1, '0.016*"video" + 0.016*"guy" + 0.016*"child" + 0.012*"club" + 0.012*"have"')
+(2, '0.020*"kid" + 0.015*"girl" + 0.014*"go" + 0.010*"child" + 0.008*"story"')
+(3, '0.001*"girl" + 0.001*"kid" + 0.001*"friend" + 0.001*"later" + 0.001*"child"')
+(4, '0.016*"lie" + 0.012*"girl" + 0.012*"show" + 0.011*"guy" + 0.011*"leave"')
+
+Topic model for season 8:
+
+(0, '0.002*"kid" + 0.002*"s" + 0.002*"first" + 0.002*"will" + 0.002*"night"')
+(1, '0.002*"kid" + 0.002*"be" + 0.002*"hear" + 0.002*"heartwarming" + 0.002*"home"')
+(2, '0.037*"kid" + 0.018*"be" + 0.016*"s" + 0.013*"night" + 0.010*"never"')
+(3, '0.024*"love" + 0.013*"name" + 0.013*"go" + 0.009*"week" + 0.009*"suck"')
+(4, '0.014*"wait" + 0.014*"let" + 0.014*"naked" + 0.014*"sound" + 0.014*"go"')
+
+Topic model for season 9:
+
+(0, '0.020*"baby" + 0.017*"night" + 0.017*"go" + 0.014*"can" + 0.014*"look"')
+(1, '0.010*"decide" + 0.010*"relationship" + 0.010*"player" + 0.010*"perfect" + 0.010*"curse"')
+(2, '0.002*"kid" + 0.002*"would" + 0.002*"night" + 0.002*"mom" + 0.002*"day"')
+(3, '0.002*"kid" + 0.002*"friend" + 0.002*"good" + 0.002*"change" + 0.002*"can"')
+(4, '0.035*"kid" + 0.012*"wedding" + 0.011*"would" + 0.010*"night" + 0.010*"meet"')
+
+Topic model for the entire series:
+
+(0, '0.003*"cougar" + 0.003*"legendary" + 0.002*"doctor" + 0.002*"price" + 0.002*"magic"')
+(1, '0.002*"painting" + 0.002*"duck" + 0.002*"tooth" + 0.002*"treat" + 0.002*"woo"')
+(2, '0.005*"painting" + 0.004*"kindergarten" + 0.003*"scooter" + 0.002*"poop" + 0.002*"marshmallow"')
+(3, '0.004*"architecture" + 0.002*"roommate" + 0.002*"meanwhile" + 0.002*"toast" + 0.002*"professor"')
+(4, '0.000*"painting" + 0.000*"issue" + 0.000*"architecture" + 0.000*"laundry" + 0.000*"lavender"')
