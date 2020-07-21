@@ -23,4 +23,4 @@ We've analyzed the transcripts of the beloved TV show, 'How I Met Your Mother' -
 * eda.py - Exploratory data analysis tools such as cleaning, stemming and getting stop words.
 
 
-* Made by Nadav Sherf and Yael Kahan
+####  *Made by Nadav Sherf and Yael Kahan*
