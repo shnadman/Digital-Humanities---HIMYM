@@ -6,7 +6,7 @@ This project is the end product of the "Topic in Digital Humanities" course taug
 
 We've analyzed the transcripts of the beloved TV show, 'How I Met Your Mother' - the results, process and everything else about this project can be found here:
 
-#### [project website](https://)
+#### [project website](https://yaelkahan022.wixsite.com/howimet)
 
 #### Contents:
 
